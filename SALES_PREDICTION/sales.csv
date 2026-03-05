@@ -1,0 +1,4 @@
+date,store,product_id,price,promotion,sales
+2023-01-01,Store_A,P200,63.42,0,37
+2023-01-02,Store_B,P100,22.11,1,60
+2023-01-03,Store_C,P300,55.80,0,41
